@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LTASP\\BaiTap01\\",
+  "WorkspaceRootPath": "D:\\LTASP\\ASPweb\\BaiTap01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A8E0E3B-9702-4EC9-B343-67F2B629A9CA}|BaiTap01\\BaiTap01.csproj|d:\\ltasp\\baitap01\\baitap01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0A8E0E3B-9702-4EC9-B343-67F2B629A9CA}|BaiTap01\\BaiTap01.csproj|d:\\ltasp\\aspweb\\baitap01\\baitap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8E0E3B-9702-4EC9-B343-67F2B629A9CA}|BaiTap01\\BaiTap01.csproj|solutionrelative:baitap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8E0E3B-9702-4EC9-B343-67F2B629A9CA}|BaiTap01\\BaiTap01.csproj|d:\\ltasp\\aspweb\\baitap01\\baitap01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A8E0E3B-9702-4EC9-B343-67F2B629A9CA}|BaiTap01\\BaiTap01.csproj|solutionrelative:baitap01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap01\\Program.cs",
+              "ToolTip": "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\Program.cs",
+              "RelativeToolTip": "BaiTap01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:51:53.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LTASP\\BaiTap01\\BaiTap01\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap01\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\LTASP\\BaiTap01\\BaiTap01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaiTap01\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-24T07:23:07.203Z",
               "EditorCaption": ""

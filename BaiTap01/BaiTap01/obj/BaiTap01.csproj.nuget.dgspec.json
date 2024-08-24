@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LTASP\\BaiTap01\\BaiTap01\\BaiTap01.csproj": {}
+    "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\BaiTap01.csproj": {}
   },
   "projects": {
-    "D:\\LTASP\\BaiTap01\\BaiTap01\\BaiTap01.csproj": {
+    "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\BaiTap01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LTASP\\BaiTap01\\BaiTap01\\BaiTap01.csproj",
+        "projectUniqueName": "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\BaiTap01.csproj",
         "projectName": "BaiTap01",
-        "projectPath": "D:\\LTASP\\BaiTap01\\BaiTap01\\BaiTap01.csproj",
+        "projectPath": "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\BaiTap01.csproj",
         "packagesPath": "C:\\Users\\MANH\\.nuget\\packages\\",
-        "outputPath": "D:\\LTASP\\BaiTap01\\BaiTap01\\obj\\",
+        "outputPath": "D:\\LTASP\\ASPweb\\BaiTap01\\BaiTap01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
