@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{29CFBA4D-EE67-4208-8F79-0619F9B07444}|BaiTap02\\BaiTap02.csproj|solutionrelative:baitap02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{29CFBA4D-EE67-4208-8F79-0619F9B07444}|BaiTap02\\BaiTap02.csproj|d:\\ltasp\\aspweb\\baitap02\\baitap02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{29CFBA4D-EE67-4208-8F79-0619F9B07444}|BaiTap02\\BaiTap02.csproj|solutionrelative:baitap02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29CFBA4D-EE67-4208-8F79-0619F9B07444}|BaiTap02\\BaiTap02.csproj|d:\\ltasp\\aspweb\\baitap02\\baitap02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29CFBA4D-EE67-4208-8F79-0619F9B07444}|BaiTap02\\BaiTap02.csproj|solutionrelative:baitap02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\LTASP\\ASPweb\\BaiTap02\\BaiTap02\\.gitignore",
+              "RelativeDocumentMoniker": "BaiTap02\\.gitignore",
+              "ToolTip": "D:\\LTASP\\ASPweb\\BaiTap02\\BaiTap02\\.gitignore",
+              "RelativeToolTip": "BaiTap02\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T07:16:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LTASP\\ASPweb\\BaiTap02\\BaiTap02\\Program.cs",
               "RelativeDocumentMoniker": "BaiTap02\\Program.cs",
@@ -30,8 +46,7 @@
               "RelativeToolTip": "BaiTap02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T07:07:10.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T07:07:10.625Z"
             },
             {
               "$type": "Document",
@@ -41,7 +56,7 @@
               "RelativeDocumentMoniker": "BaiTap02\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\LTASP\\ASPweb\\BaiTap02\\BaiTap02\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaiTap02\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwDIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-26T08:14:32.841Z",
               "EditorCaption": ""
