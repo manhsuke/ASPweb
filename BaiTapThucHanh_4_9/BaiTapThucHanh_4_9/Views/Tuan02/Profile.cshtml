@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="container mt-4 mb-4 p-3 d-flex justify-content-center">
+    <div class="card p-4">
+        <div class="image d-flex flex-column justify-content-center align-items-center">
+            <button class="btn btn-secondary">
+                <img src="~/img/dntu.jpg" height="100" width="100" />
+            </button>
+            <span class="name mt-3">Nguyễn Hoàng Mạnh</span>
+          
+            <div class="gap-3 mt-3 icons d-flex flex-row justify-content-center align-items-center">
+                <span><i class="fa fa-twitter"></i></span>
+                <span><i class="fa fa-facebook-f"></i></span>
+                <span><i class="fa fa-instagram"></i></span>
+                <span><i class="fa fa-linkedin"></i></span>
+            </div>
+            <div class="px-2 rounded mt-4 date">
+                <span class="join">@DateTime.Now.Date.ToString("dd/MM/yyyy")</span>
+            </div>
+        </div>
+    </div>
+</div>
+
