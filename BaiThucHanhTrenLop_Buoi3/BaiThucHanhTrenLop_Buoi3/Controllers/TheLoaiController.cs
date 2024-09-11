@@ -8,9 +8,5 @@ namespace BaiThucHanhTrenLop_Buoi3.Controllers
         {
             return View();
         }
-        public IActionResult View()
-        {
-            return View();
-        }
     }
 }
